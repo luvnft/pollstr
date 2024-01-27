@@ -1,5 +1,5 @@
-# pollstr
-A Poll Website for Nostr
+# vote
+A Vote Website for Nostr
 
 # Docker
 Run pre-built Docker Image:
